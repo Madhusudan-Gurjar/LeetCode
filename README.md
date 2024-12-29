@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0890-lemonade-change) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
