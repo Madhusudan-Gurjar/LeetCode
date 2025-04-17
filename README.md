@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0890-lemonade-change](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0890-lemonade-change) |
 ## String
 |  |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
