@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0890-lemonade-change) |
 ## String
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0561-array-partition) |
 ## Counting
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0415-add-strings) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
