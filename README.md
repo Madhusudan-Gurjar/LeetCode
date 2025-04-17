@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0890-lemonade-change](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
