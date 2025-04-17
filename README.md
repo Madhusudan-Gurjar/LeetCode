@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0520-detect-capital](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0520-detect-capital) |
 ## Two Pointers
 |  |
 | ------- |
