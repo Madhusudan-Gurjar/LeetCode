@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
 | [0890-lemonade-change](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
@@ -39,12 +40,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -61,8 +64,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
