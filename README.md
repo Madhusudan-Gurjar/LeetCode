@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0283-move-zeroes) |
 | [0890-lemonade-change](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
