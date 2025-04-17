@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
