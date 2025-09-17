@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/0890-lemonade-change) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Madhusudan-Gurjar/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
 | ------- |
