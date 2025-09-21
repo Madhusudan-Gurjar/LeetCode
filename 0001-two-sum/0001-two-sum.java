@@ -11,7 +11,7 @@ class Solution {
                 }
             }
         }
-        System.out.print(arr[0]+" "+arr[1]);
+        // System.out.print(arr[0]+" "+arr[1]);
         // return new int[]{}; 
         return arr;
     }
