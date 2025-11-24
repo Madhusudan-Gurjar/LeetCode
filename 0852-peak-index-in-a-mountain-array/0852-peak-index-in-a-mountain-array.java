@@ -11,7 +11,7 @@ class Solution {
         }else{
             for(i=0;i<n-1;i++){
                 if(arr[i+1]<arr[i]){
-                 res = i;
+                 return i;
                 }
             }
         }
