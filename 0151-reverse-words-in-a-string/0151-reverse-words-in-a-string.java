@@ -1,7 +1,9 @@
 class Solution {
     public String reverseWords(String s) {
         s=s.trim();
-        String words[]=s.split("\\s+");
+        String words[]=s.split("\\s+"); // use this if need to remove extra space between two words
+        // String words[]=s.split(" "); use this if not need to remove extra space between two words
+
         StringBuilder sb= new StringBuilder("");
         int n=words.length;
         for(int i=n-1;i>=0;i--){
